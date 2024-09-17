@@ -1,5 +1,5 @@
 <h1>Hola! Soy Jesus Angarita</h1>
-conocido en GitHub como JEAM28
+<h2>conocido en GitHub como JEAM28</h2>
 
 Soy un desarrollador web full stack, puedo trabajar tanto del lado del servidor como del cliente 
 
@@ -14,6 +14,6 @@ por que las tecnologias se renuevan cada dia.
 
 es un gusto para mi que hallas pasado por aca, si te gusro mi perfil puedes contactarme en:
 
-jes.angar11@gmail.com
-https://www.linkedin.com/in/jesus-angarita-m/
+jes.angar11@gmail.com<br>
+https://www.linkedin.com/in/jesus-angarita-m/<br>
 celular: +57 3007281546
