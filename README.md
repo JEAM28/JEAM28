@@ -1,5 +1,5 @@
 <h1>Hola! Soy Jesus Angarita</h1>
-<h2>conocido en GitHub como JEAM28</h2>
+<h4>conocido en GitHub como JEAM28</h4>
 
 Soy un desarrollador web full stack, puedo trabajar tanto del lado del servidor como del cliente 
 
